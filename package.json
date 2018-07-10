@@ -2,6 +2,12 @@
   "name": "knex-data",
   "version": "0.1.2",
   "description": "",
+  "keywords": [
+    "knex",
+    "migrations",
+    "data",
+    "query"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
