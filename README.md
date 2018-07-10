@@ -1,6 +1,6 @@
 # Knex Data
 
-Small CLI utility that converts the knex query/schema builder method calls in migrations to standard sql. Has an interactive CLI that allows you to select which migration, specific the up or down migration, and whether or not to add a savepoint to the output. Transactions are added based on the knex settings inside of that project.
+Small CLI utility that allows you to create and run data migrations using the knex query builder.
 
 ## Install
 
